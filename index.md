@@ -1,9 +1,14 @@
 # Naman Anurag Gupta
-### Business Analyst | Data & AI-Driven Decision Making
+**Business Analyst | Data & AI-Driven Decision Making**
 
 I build analytics solutions that transform complex data into actionable insights, improve operational efficiency, and support strategic decision-making.
-[About Me](about.md) | [Projects](projects.md)
 
 ---
 
-👉 View all projects: [Projects](projects.md)
+### What I Do
+- Build data-driven analytics solutions for real-world business problems  
+- Apply machine learning and optimization models to support decisions  
+- Translate technical insights into executive-ready narratives  
+
+👉 View my work: [Projects](projects.md)  
+👉 Learn more: [About Me](about.md)
